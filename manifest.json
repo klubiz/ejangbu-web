@@ -1,11 +1,11 @@
 {
-  "name": "삼일식품 ERP",
-  "short_name": "삼일ERP",
-  "description": "식자재 수발주 관리 ERP 시스템",
+  "name": "e장부",
+  "short_name": "e장부",
+  "description": "AI 경영관리의 시작, e장부",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#22c55e",
+  "background_color": "#f5f5f7",
+  "theme_color": "#007aff",
   "orientation": "any",
   "icons": [
     {
@@ -57,6 +57,9 @@
       "purpose": "maskable any"
     }
   ],
-  "categories": ["business", "productivity"],
+  "categories": [
+    "business",
+    "productivity"
+  ],
   "lang": "ko-KR"
 }
